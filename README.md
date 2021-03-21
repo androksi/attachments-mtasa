@@ -1,8 +1,9 @@
 # Attachments (Bone) - MTA: SA
 Bone attach with a preview panel to configure the positions and rotations.
 
-## How to open the panel
-**Command**: type ``/ap`` to open - everyone can open this, once it's just for previewing to the client.
+## Environment
+**Command**: type ``/ap`` to open - everyone can open this, once it's just for previewing to the client.  
+**Cursor**: hold ``mouse2`` to toggle cursor.
 
 ## Exported Functions
 ### attach
