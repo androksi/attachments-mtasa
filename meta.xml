@@ -1,0 +1,17 @@
+<meta>
+    <info author="andr0xy" type="script" name="Attachments" version="1.0" />
+    <min_mta_version client="1.5.8" server="1.5.8" />
+
+    <script src="shared/utils_shared.lua" type="shared" />
+
+    <script src="client/attachment_client.lua" type="client" />
+    <script src="client/attachment_preview.lua" type="client" />
+
+    <script src="server/attachment_server.lua" type="server" />
+
+    <export function="attach" type="shared" />
+    <export function="detach" type="shared" />
+    <export function="updateAttachment" type="shared" />
+    <export function="isAttached" type="shared" />
+    <export function="getAttachmentDetails" type="shared" />
+</meta>
